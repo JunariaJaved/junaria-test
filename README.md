@@ -1,1 +1,2 @@
 # junaria-test
+Test ended.
